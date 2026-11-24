@@ -1,0 +1,10 @@
+git
+github
+github-branch-source
+workflow-aggregator
+pipeline-stage-view
+blueocean
+docker-workflow
+credentials-binding
+junit
+timestamper
