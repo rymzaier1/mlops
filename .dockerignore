@@ -1,0 +1,9 @@
+
+mlruns/
+mlflow.db
+__pycache__/
+venv/
+.git/
+*.csv
+token.txt
+.env

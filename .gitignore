@@ -2,3 +2,10 @@ venv/
 mlruns/
 mlflow.db
 token.txt
+
+# Fichiers Python temporaires
+__pycache__/
+*.pyc
+
+# Modèle exporté localement
+model/
